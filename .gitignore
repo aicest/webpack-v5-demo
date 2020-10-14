@@ -1,0 +1,8 @@
+.pnp.*
+.yarn/build-state.yml
+.yarn/cache
+.yarn/install-state.gz
+.yarn/unplugged
+*.log
+dist
+node_modules
