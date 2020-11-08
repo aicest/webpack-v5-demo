@@ -1,6 +1,6 @@
 # webpack v5 demo
 
-## ts-loader
+## [ts-loader bug](https://github.com/TypeStrong/ts-loader/pull/1209)
 
 ### Reproduce
 
@@ -15,7 +15,7 @@ yarn workspace ts-loader-bug build
 2. Run `yarn` to reinstall.
 3. Run `yarn workspace ts-loader-bug build`.
 
-## webpack-cli
+## [webpack-cli bug](https://github.com/webpack/webpack-cli/pull/1941)
 
 ### Reproduce
 
